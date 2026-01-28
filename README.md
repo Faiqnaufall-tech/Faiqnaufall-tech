@@ -14,7 +14,6 @@ Mode        : Ethical Red Team
 Focus       : API Security, Web Pentesting, Network Testing, Mobile testing
 Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
 ```
-
 <br/>
 
 <p align="center">
@@ -35,6 +34,8 @@ Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
   <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=4EA1FF" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br/>
