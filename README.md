@@ -1,7 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FF0033&center=true&vCenter=true&width=900&lines=%5Broot%40fallsec%5D%24+whoami%3F;I+am+Fallsec;Backend+DevOps+%7C+Network+Engineer;Nice+to+meet+you" />
+<div align="center">
+
+<h3>Faiq Naufal Majid</h3>
+
+<h3>DevOps Engineer | Network Engginer</h3>
+
+<p>
+Faiq Naufal is a DevOps Engineer focused on automation, infrastructure management, Linux servers,</br> Docker containerization, and production deployment pipelines.
 </p>
 
+</div>
+
+<div align="center">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FF0033&center=true&vCenter=true&width=900&lines=%5Broot%40fallsec%5D%24+whoami%3F;I+am+Fallsec;Backend+DevOps+%7C+Network+Engineer;Nice+to+meet+you" />
+</p>
+</div>
 
 
 ```bash
