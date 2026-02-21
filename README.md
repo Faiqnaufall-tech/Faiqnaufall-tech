@@ -63,10 +63,10 @@ Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
   <a href="https://www.linkedin.com/in/faiqnaufall">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/USERNAME_TELEKAMU">
+  <a href="https://t.me/Faiqqnaufall">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME_IG">
+  <a href="https://instagram.com/faiqqnaufall_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
