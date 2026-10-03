@@ -22,7 +22,7 @@ Faiq Naufal is a DevOps Engineer focused on automation, infrastructure managemen
 └──╼ $ cat profile.txt
 
 Name        : Faiq Naufal Majid
-Role        : Backend DevOps | Network Engineer
+Role        : Pentesting | Network Engineer
 Mode        : Ethical Red Team
 Focus       : API Security, Web Pentesting, Network Testing, Mobile testing
 Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
