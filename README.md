@@ -5,7 +5,8 @@
 <h3>Pentesting | Network Engginer</h3>
 
 <p>
-Faiq Naufal is a DevOps Engineer focused on automation, infrastructure management, Linux servers,</br> Docker containerization, and production deployment pipelines.
+Fokus mendalami <b>penetration testing</b>, <b>jaringan</b>, dan <b>manajemen server</b>.<br/>
+Suka membangun aplikasi & website, plus eksplorasi visual UI/UX desain.
 </p>
 
 </div>
