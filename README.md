@@ -2,7 +2,7 @@
 
 <h3>Faiq Naufal Majid</h3>
 
-<h3>DevOps Engineer | Network Engginer</h3>
+<h3>Pentesting | Network Engginer</h3>
 
 <p>
 Faiq Naufal is a DevOps Engineer focused on automation, infrastructure management, Linux servers,</br> Docker containerization, and production deployment pipelines.
